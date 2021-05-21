@@ -1,0 +1,4 @@
+Brainstorm Proyecto IA
+- Lentes que escuchan por otras personas y muestran texto
+- Cuando llegues a tu casa se ejecutan una serie de actividades (Face Recognition/Computer Vision)
+- Cuando detecte que el cuarto esta solo se apaga todo (Clima, Luz, etc.) 
